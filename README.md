@@ -1,5 +1,5 @@
-## Build Deep Learning Applications for Big Data using [Analytics Zoo](https://github.com/intel-analytics/analytics-zoo)
-**_Distributed TensorFlow, Keras and BigDL on Apache Spark_**
+## Building Deep Learning Applications on Big Data Platforms
+**_CVPR 2018 [Tutorial](http://cvpr2018.thecvf.com/program/tutorials)_**
 
 ___
 
