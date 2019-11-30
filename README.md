@@ -14,8 +14,8 @@ _June 19 (9AM - 12PM) 2018, Room 151 ABCG_
 
 | 9:00 - 9:10   | Motivation |
 | 9:10 - 9:30   | DL frameworks on Apache Spark |
-| 9:30 - 09:45  | Analytics Zoo for Spark and BigDL |
-| 9:45 - 10:00  | Analytics Zoo Examples ([notenook I](https://github.com/intel-analytics/analytics-zoo/blob/master/apps/dogs-vs-cats/transfer-learning.ipynb), [notenook II](https://github.com/intel-analytics/analytics-zoo/blob/master/apps/object-detection/object-detection.ipynb), [notenook III](https://github.com/intel-analytics/analytics-zoo/blob/master/apps/tfnet/image_classification_inference.ipynb)) |
+| 9:30 - 09:45  | BigDL and Analytics Zoo overview |
+| 9:45 - 10:00  | BigDL and Analytics Zoo Examples ([notenook I](https://github.com/intel-analytics/analytics-zoo/blob/master/apps/dogs-vs-cats/transfer-learning.ipynb), [notenook II](https://github.com/intel-analytics/analytics-zoo/blob/master/apps/object-detection/object-detection.ipynb), [notenook III](https://github.com/intel-analytics/analytics-zoo/blob/master/apps/tfnet/image_classification_inference.ipynb)) |
 | 10:00 - 10:30 | Break |
 | 10:30 - 11:00 | Distributed training |
 | 11:00 - 11:30 | Advanced applications ([notenook I](https://github.com/intel-analytics/analytics-zoo/blob/master/apps/variational-autoencoder/using_variational_autoencoder_to_generate_digital_numbers.ipynb), [notenook II](https://github.com/intel-analytics/analytics-zoo/blob/master/apps/variational-autoencoder/using_variational_autoencoder_to_generate_faces.ipynb), [notenook III](https://github.com/intel-analytics/analytics-zoo/blob/master/apps/recommendation/ncf-explicit-feedback.ipynb)) |
