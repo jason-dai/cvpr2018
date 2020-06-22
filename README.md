@@ -26,4 +26,8 @@ _June 19 (9AM - 12PM) 2018, Room 151 ABCG_
 * YouTube ([part I](https://www.youtube.com/watch?v=qrNMqsDPVkE), [part II](https://www.youtube.com/watch?v=zkP2ETLH_kg))
 * SlideShare ([link](https://www.slideshare.net/jason-dai/build-deep-learning-applications-for-big-data-platforms-104887328))
 * Slides ([pdf](slides/BigData_DL_Jason-CVPR.pdf))
+
+## Links
 * Related [tutorial](https://jason-dai.github.io/aaai2019) at [AAAI 2019](https://aaai.org/Conferences/AAAI-19/aaai19tutorials/#sp2)
+* [tutorial](https://jason-dai.github.io/cvpr2020/) at [CVPR 2020](http://cvpr2020.thecvf.com/program/tutorials)
+
