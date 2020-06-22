@@ -29,5 +29,5 @@ _June 19 (9AM - 12PM) 2018, Room 151 ABCG_
 
 ## Links
 * Related [tutorial](https://jason-dai.github.io/aaai2019) at [AAAI 2019](https://aaai.org/Conferences/AAAI-19/aaai19tutorials/#sp2)
-* [tutorial](https://jason-dai.github.io/cvpr2020/) at [CVPR 2020](http://cvpr2020.thecvf.com/program/tutorials)
+* Related [tutorial](https://jason-dai.github.io/cvpr2020/) at [CVPR 2020](http://cvpr2020.thecvf.com/program/tutorials)
 
